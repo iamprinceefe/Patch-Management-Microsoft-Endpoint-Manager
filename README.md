@@ -45,6 +45,8 @@ Upload Patch:  <br/>
 <br />
 Patch List:  <br/>
 <img src="https://i.imgur.com/rTRHD32.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Patch Resolved:  <br/>
 <img src="https://i.imgur.com/vuIJ37q.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
