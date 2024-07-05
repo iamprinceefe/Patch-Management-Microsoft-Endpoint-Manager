@@ -12,6 +12,7 @@ This repository documents my practice in patch management, specifically using Mi
 - <b>Microsoft Endpoint Manager</b> 
 
 
+
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
